@@ -1,0 +1,52 @@
+Privacy Policy for "YourMind"
+
+Last updated: July 16, 2023
+
+Introduction
+
+Welcome to "YourMind," an app developed to assist you in organizing and managing your thoughts, tasks, and personal information. We value your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use the "YourMind" app. By accessing or using the app, you agree to the terms of this Privacy Policy. If you do not agree with any of these terms, please refrain from using the app.
+
+Information We Collect
+a. Personal Information: "YourMind" may collect personally identifiable information, such as your name, email address, and other contact details when you register an account with the app or voluntarily provide this information.
+
+b. User Content: The app allows you to create and store personal notes, tasks, and other content ("User Content"). We collect and store this User Content to provide you with the intended services.
+
+c. Device Information: We may collect information about your device, including the device type, operating system, unique device identifiers, IP address, and mobile network information to ensure app functionality and improve user experience.
+
+d. Usage Data: "YourMind" may collect information regarding your interactions with the app, such as the pages you visit, features you use, and the time and date of your visits.
+
+How We Use Your Information
+a. To Provide Services: We use your personal information and user content to provide the services offered by "YourMind," such as note-taking, task management, and organization features.
+
+b. App Improvement: We analyze usage data and feedback to enhance the app's functionality, identify potential issues, and improve user experience.
+
+c. Communication: We may use your email address to send you important updates, notifications, or responses to inquiries related to the app.
+
+d. Legal Compliance: In certain cases, we may use your information to comply with legal obligations, such as responding to lawful requests or protecting our rights, privacy, safety, or property.
+
+How We Share Your Information
+a. Third-Party Service Providers: We may share your information with third-party service providers who assist us in providing the app's functionalities, analytics, or other related services. These providers are bound by contractual obligations to protect your data and can't use your information for any other purpose.
+
+b. Aggregated Data: We may share aggregated and anonymized data with third parties for statistical or analytical purposes, which does not identify you personally.
+
+c. Business Transactions: If "YourMind" undergoes a business transition, such as a merger, acquisition, or sale of assets, your information may be part of the transferred assets.
+
+d. Legal Requirements: We may disclose your information if required by law or to protect our rights, privacy, safety, or property.
+
+Your Rights and Choices
+a. Access and Update: You have the right to access and update your personal information through the app's settings.
+
+b. Data Deletion: You may request the deletion of your account and associated data from "YourMind" by contacting us at [email address].
+
+c. Opt-out: You can opt-out of receiving non-essential communications from us by following the unsubscribe instructions provided in the email or contacting us directly.
+
+Security Measures
+We take appropriate security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of data transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+Changes to the Privacy Policy
+We may update this Privacy Policy from time to time, and any changes will be effective upon posting the revised policy within the app. We encourage you to review this Privacy Policy periodically for any updates.
+
+Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or the "YourMind" app's privacy practices, please contact us at quebostina@gmail.com.
+
+By using "YourMind" app, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your information as described herein.
